@@ -1,0 +1,9 @@
+FUNCTION_BLOCK FB1
+#info= FBD
+#end_info
+#info= OTHER
+Version=I:2
+Scaling=PI(1,1)
+CellSize=PI(20,15)
+#end_info
+END_FUNCTION_BLOCK

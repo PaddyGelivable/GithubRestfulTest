@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root Version="7">
+  <LanguageContainerStyle DisplayGrid="true" FunctionBlockInstanceName="true" VariableDisplayMode="NameAndAlias" VariableAlpha="255" VariableTextColor="windowtext" VariableOnlineTextColor="Red" VariableBackgroundColor="SteelBlue" VariableGradientColor="LightSteelBlue" Font="Microsoft Sans Serif, 8.25pt" VariableWidth="8" VariableCommentPosition="None" Index="0" />
+</Root>

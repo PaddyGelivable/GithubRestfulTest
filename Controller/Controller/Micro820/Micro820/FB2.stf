@@ -1,0 +1,6 @@
+FUNCTION_BLOCK FB2
+#info= FBD
+Scaling=PI(1,1)
+CellSize=PI(20,15)
+#end_info
+END_FUNCTION_BLOCK
